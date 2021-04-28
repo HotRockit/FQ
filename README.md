@@ -19,6 +19,13 @@
    |       SSR节点订阅        | `https://raw.githubusercontent.com/freefq/free/master/ssr` |
    | v2ray(ss/trojan)节点订阅 | `https://raw.githubusercontent.com/freefq/free/master/v2`  |
 
+   **新版订阅地址，上面订阅地址还是可用的，下面这两个订阅地址的信息和上面两个是一样的，只不过下面这两个订阅地址更新的时候不需要fq**
+
+   |           类型           |                            地址                            |
+   | :----------------------: | :--------------------------------------------------------: |
+   |       SSR节点订阅        | `https://raw.githubusercontent.com/freefq/free/master/ssr` |
+   | v2ray(ss/trojan)节点订阅 | `https://raw.githubusercontent.com/freefq/free/master/v2`  |
+
    **在此感谢[freefq项目](https://github.com/freefq/free)提供的订阅地址**，但是注意上面这两个订阅更新的时候都是需要fq的，因为国内墙住了`raw.githubusercontent.com`地址。这里的墙主要是通过DNS污染实现的，所以你可以通过一些[工具网站](https://www.ipaddress.com/)查询此域名的真正ip地址，然后在系统的`hosts文件`里面进行配置；还有一个简单的方法，就是设置系统代理为全局代理，更新完订阅之后再回到以前的代理模式。**在V2rayN软件里面即使你设置了`raw.githubusercontent.com`走代理，实际上在更新订阅的时候也没有走代理**，所以还是需要用到上面两种方法更新订阅。
 
 3. 如果平时使用的要求不是太高，也可以使用**Sandbox**的方式，[链接地址](https://cdn.apkook.com/)
